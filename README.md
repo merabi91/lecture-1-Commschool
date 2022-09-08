@@ -5,3 +5,5 @@
 # especially front end development
 
 # so i'm very motivate
+
+# first lecture was much interesting
